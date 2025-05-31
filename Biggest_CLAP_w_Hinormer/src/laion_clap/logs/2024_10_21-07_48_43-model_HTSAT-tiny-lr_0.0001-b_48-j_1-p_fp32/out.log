@@ -1,0 +1,12 @@
+2024-10-21,07:48:43 | INFO | Running with a single process. Device cuda:0.
+2024-10-21,07:48:43 | INFO | openai cache dir: /content/transformers_cache
+2024-10-21,07:49:18 | INFO | Running with a single process. Device cuda:0.
+2024-10-21,07:49:18 | INFO | openai cache dir: /content/transformers_cache
+2024-10-21,07:53:43 | INFO | Running with a single process. Device cuda:0.
+2024-10-21,07:53:43 | INFO | openai cache dir: /content/transformers_cache
+2024-10-21,07:58:49 | INFO | Running with a single process. Device cuda:0.
+2024-10-21,07:58:49 | INFO | openai cache dir: /content/transformers_cache
+2024-10-21,08:01:59 | INFO | Running with a single process. Device cuda:0.
+2024-10-21,08:01:59 | INFO | openai cache dir: /content/transformers_cache
+2024-10-21,08:02:08 | INFO | Running with a single process. Device cuda:0.
+2024-10-21,08:02:08 | INFO | openai cache dir: /content/transformers_cache

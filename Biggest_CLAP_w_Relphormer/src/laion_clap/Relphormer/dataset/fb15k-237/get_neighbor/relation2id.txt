@@ -1,0 +1,8 @@
+/artist/made/song	0
+/song/created_by/artist	1
+/playlist/contains/song	2
+/song/belongs_to/playlist	3
+/genre/influences/artist	4
+/artist/influenced_by/genre	5
+/artist/described_as/descriptor	6
+/descriptor/describes/artist	7
